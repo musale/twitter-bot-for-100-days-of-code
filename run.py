@@ -46,8 +46,7 @@ def main():
     else:
         # New commit, tweet it!
         # Attach hashtag
-        # full_tweet = "#100DaysOfCode %s" % (commit,)
-        full_tweet = "And now it's getting Bright again The months have changed But we remain The sun is out A year has flown The dark has gone And we have grown Closer and closer Apart never You're my soulmate And I'll love you forever"
+        full_tweet = "#100DaysOfCode %s" % (commit,)
 
         # if full_tweet is more than 140 chars, break it down the post as
         # thread
