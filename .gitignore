@@ -3,3 +3,4 @@ logs.txt
 .env
 .venv/
 *.pyc
+logs.txt
