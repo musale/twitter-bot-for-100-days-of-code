@@ -19,6 +19,7 @@ my_access_token_secret = os.environ.get("my_access_token_secret")
 
 
 # GET all the commits of the repo
+# Change this URL unless you want to tweet my silly commits
 response = requests.get(
     "https://api.github.com/repos/musale/100-days-of-code/commits")
 
