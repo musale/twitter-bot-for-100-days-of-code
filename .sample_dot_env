@@ -1,0 +1,5 @@
+# rename this file to .env and fill out the details
+my_consumer_key = "YOUR_TWITTER_CONSUMER KEY"
+my_consumer_secret = "YOUR_TWITTER_CONSUMER_SECRET"
+my_access_token_key = "YOUR_TWITTER_ACCESS_TOKEN_KEY"
+my_access_token_secret = "YOUR_TWITTER_ACCESS_TOKEN_SECRET"
