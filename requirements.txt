@@ -1,0 +1,4 @@
+python-dotenv==0.6.2
+python-twitter==3.2.1
+requests==2.12.5
+schedule==0.4.2
