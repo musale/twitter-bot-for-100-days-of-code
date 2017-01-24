@@ -1,1 +1,5 @@
 .run.py.swp
+logs.txt
+.env
+.venv/
+*.pyc
