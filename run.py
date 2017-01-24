@@ -77,7 +77,7 @@ def main():
                     pass
             elif isinstance(final_tweet, unicode):
                 print "final unicode: %s" % (final_tweet,)
-                update = tweet.PostUpdate(full_tweet)
+                update = tweet.PostUpdate(str(full_tweet))
             else:
                 print "weird tweet:: %s" % (type(final_tweet),)
 
